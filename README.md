@@ -15,12 +15,12 @@ Seguem algumas indicações de materiais :
 - [Graph Neural Networks](https://github.com/GoloMarcos/Introduction-GNN)
 - [GNN Gravação do curso](https://lnkd.in/duYVKHer)
 - [Understanding Deep Learning](https://dataicmc.netlify.app/br/pages/events/understandingDL)
-- [IA na Prática - Apresentações 6a edição AI Experience Centro Paula Souza(http://aiexperience.cpscetec.com.br/arquivos/)
+- [IA na Prática - Apresentações 6a edição AI Experience Centro Paula Souza](http://aiexperience.cpscetec.com.br/arquivos/)
 
 # Materiais Gratuitos sobre Mulheres em STEM
 
 Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulheres em STEAM
 
-- [Anais II Congresso Internacional Mulheres em STEM](https://congressomulheresemsteam.com.br/home/anais/)
-- [Anais I Congresso Internacional Mulheres em STEM](https://publicacoes.softaliza.com.br/cimesteam2022/index)
+- [Anais II Congresso Internacional Mulheres em STEAM](https://congressomulheresemsteam.com.br/home/anais/)
+- [Anais I Congresso Internacional Mulheres em STEAM](https://publicacoes.softaliza.com.br/cimesteam2022/index)
 
