@@ -35,3 +35,11 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 - [Anais II Congresso Internacional Mulheres em STEAM](https://congressomulheresemsteam.com.br/home/anais/)
 - [Anais I Congresso Internacional Mulheres em STEAM](https://publicacoes.softaliza.com.br/cimesteam2022/index)
 
+# Cursos Complementares
+
+Seguem algumas indicações de cursos em minha transição para a área
+
+| Feature   | Description                       | Link                            |
+|-----------|-----------------------------------|---------------------------------|
+| Feature 1 | A feature with **bold** text.     | [Link](https://example.com)     |
+| Feature 2 | An image: ![Alt](image-url.png)   | [More Info](https://example.com)|
