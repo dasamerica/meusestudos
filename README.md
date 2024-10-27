@@ -12,4 +12,4 @@ Seguem algumas indicações de materiais :
 - [Aula sobre programação em Python](https://www.youtube.com/watch?v=CEkHlfVH_Ew) (do zero ao básico de POO; conteúdo imprescindível para compreensão do curso)
 - Representação no Espaço Vetorial[Link 1](https://www.youtube.com/watch?v=hivD34b-W5w) [Link 2](https://www.youtube.com/watch?v=OtQr5NkRPdg)
 - [Introdução às Medidas de Proximidade](https://www.youtube.com/watch?v=yV26S9Zsq1s)
-- [Graph Neural Networks] (https://github.com/GoloMarcos/Introduction-GNN)
+- [Graph Neural Networks](https://github.com/GoloMarcos/Introduction-GNN)
