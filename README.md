@@ -4,6 +4,9 @@
 Este repositório tem por objetivo orientar os estudos na área de dados e inteligência artificial, e apresento meus estudos no programa de doutorado.
 Adicionalmente listo também dicas de cursos gratuitos na área e minhas formações complementares.
 
+# Materiais de Estudos No Doutorado
+
+
 # Materiais Gratuitos de Estudos 
 
 Seguem algumas indicações de materiais :
@@ -16,8 +19,9 @@ Seguem algumas indicações de materiais :
 - [GNN Gravação do curso](https://lnkd.in/duYVKHer)
 - [Understanding Deep Learning](https://dataicmc.netlify.app/br/pages/events/understandingDL)
 - [IA na Prática - Apresentações 6a edição AI Experience Centro Paula Souza](http://aiexperience.cpscetec.com.br/arquivos/)
+- [Python para Processamento de Linguagem Natural](https://cursosextensao.usp.br/course/view.php?id=2721)
 
-# Materiais Gratuitos sobre Mulheres em STEM
+# Materiais Gratuitos sobre Mulheres em STEAM
 
 Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulheres em STEAM
 
