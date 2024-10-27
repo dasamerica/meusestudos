@@ -5,7 +5,9 @@ Este repositório tem por objetivo orientar os estudos na área de dados e intel
 Adicionalmente listo também dicas de cursos gratuitos na área e minhas formações complementares.
 
 # Materiais de Estudos No Doutorado
+Seguem algumas indicações de materiais :
 
+- [Códigos criados para a disciplina CT208 01/2020 Matemática Computacional- Prof. Ney Soma](https://github.com/dasamerica/ct208)
 
 # Materiais Gratuitos de Estudos 
 
