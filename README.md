@@ -11,6 +11,8 @@ Seguem algumas indicações de materiais :
 - [Tutorial para criação de mapas em Python or mesoregiao](https://github.com/dasamerica/tutorials/tree/main/MAPS04)
 - [Tutorial Processamento de Linguagem Natural](https://github.com/dasamerica/tutorials/tree/main/NLP)
 - [Relatório Técnico para CAPES - Assimetrias na Pós-Graduação](https://github.com/dasamerica/relatorio_tecnico)
+- [Programas em Python utiilizados na Tese de Doutorado](https://github.com/dasamerica/ita_tese_dout_adapg)
+- [Tese de Doutorado - Um modelo de análise de assimetrias na pós-graduação](http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=78466)
 
 # Materiais Gratuitos de Estudos 
 
