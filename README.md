@@ -3,7 +3,7 @@
 
 Este repositório tem por objetivo orientar os estudos na área de dados e inteligência artificial, e apresento meus estudos no programa de doutorado.
 Adicionalmente listo também dicas de cursos gratuitos na área e minhas formações complementares.
-As minhas informações e links para minhas formações podem ser encontradas [neste link](https://sites.google.com/view/danielaamericadasilva/artigos?authuser=0)
+As minhas informações e links para minhas formações podem ser encontradas [neste link](https://sites.google.com/view/danielaamericadasilva/cv?authuser=0)
 
 # Materiais de Estudos No Doutorado
 Seguem algumas indicações de materiais :
