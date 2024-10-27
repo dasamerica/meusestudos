@@ -3,6 +3,7 @@
 
 Este repositório tem por objetivo orientar os estudos na área de dados e inteligência artificial, e apresento meus estudos no programa de doutorado.
 Adicionalmente listo também dicas de cursos gratuitos na área e minhas formações complementares.
+As minhas informações e links para minhas formações podem ser encontradas [neste link](https://sites.google.com/view/danielaamericadasilva/artigos?authuser=0)
 
 # Materiais de Estudos No Doutorado
 Seguem algumas indicações de materiais :
@@ -13,6 +14,7 @@ Seguem algumas indicações de materiais :
 - [Relatório Técnico para CAPES - Assimetrias na Pós-Graduação](https://github.com/dasamerica/relatorio_tecnico)
 - [Programas em Python utiilizados na Tese de Doutorado](https://github.com/dasamerica/ita_tese_dout_adapg)
 - [Tese de Doutorado - Um modelo de análise de assimetrias na pós-graduação](http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=78466)
+- [Artigos Publicados](https://sites.google.com/view/danielaamericadasilva/artigos?authuser=0)
 
 # Materiais Gratuitos de Estudos 
 
