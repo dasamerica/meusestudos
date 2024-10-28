@@ -63,9 +63,6 @@ Seguem algumas indicações de cursos em minha transição para a área de dados
 |Introduction to Large Language Models - Coursera|
 |Introduction to Image Generation - Coursera|
 |Introduction to Generative AI - Coursera|
-|Innovating with Data and Google Cloud - Coursera|
-|Infrastructure and Application Modernization with Google Cloud - Coursera|
-|Google Cloud Digital Leader Training - Udemy|
 |IA Generativa no GB: Chat GPT é apenas o começo! - Grupo Boticario|
 |Imersão em Inteligência Artificial - Google Gemini + AI Studio - Alura|
 |Inteligencia Artificial: eleve sua produtividade e acelere a sua carreira - Conquer|
