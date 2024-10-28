@@ -53,6 +53,10 @@ Seguem algumas indicações de materiais :
 - [Mitigating Bias in Machine Learning](https://www.amazon.com/Mitigating-Machine-Learning-Carlotta-Berry/dp/1264922442)
 - [AI Incident Database](https://incidentdatabase.ai/)
 - [AI Risk Repository - MIT](https://airisk.mit.edu/)
+- [CAIDE - Center for AI and Digital Ethics - UniMelb](https://www.unimelb.edu.au/caide) 
+- [C4AI HS Seminar 2021 - USP](https://www.youtube.com/watch?v=TG1Cs-XgB9Y)
+
+
 
 
 # Materiais Gratuitos sobre Mulheres em STEAM
