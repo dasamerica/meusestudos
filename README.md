@@ -42,18 +42,18 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 Seguem algumas indicações de cursos em minha transição para a área
 
 |Standards|
-|---------|
+|----------------------------------------------------------------------------------------------|
 |ISO/IEC 42001:2023 - Artificial Intelligence Management System (AIMS) - Alison|
 |ISO/IEC 27701:2019 Privacy Information Management System - Udemy|
 |ISO 31000 Risk Manager Training|
 |NIST AI Risk Management Framework|
 
 |AWS Cloud|
-|---------|
+|----------------------------------------------------------------------------------------------|
 |AWS Cloud Practitioner Essentials - Treinamento para Certificação - Publico Geral - Parceria Grupo Boticário e AWS|
 
 |IA Generativa|
-|-------------------------|
+|----------------------------------------------------------------------------------------------|
 |Introduction to Large Language Models - Coursera|
 |Introduction to Image Generation|
 |Introduction to Generative AI|
@@ -69,7 +69,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 
 
 |Google Cloud - Fundamentos|
-|-------------------------|
+|----------------------------------------------------------------------------------------------|
 |Google Cloud Product Fundamentals - Coursera|
 |Digital Transformation with Google Cloud - Coursera|
 |Understanding Google Cloud Security and Operations - Coursera|
@@ -82,7 +82,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 
 
 |Google Cloud - Machine Learning|
-|-------------------------|
+|----------------------------------------------------------------------------------------------|
 |How Google Does Machine Learning - Coursera|
 |Launching into Machine Learning - Coursera|
 |Achieving Advanced Insights with BigQuery - Coursera|
@@ -90,7 +90,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 |Applying Machine Learning to your Data with Google Cloud|
 
 |Google Cloud - BigQuery|
-|-------------------------|
+|----------------------------------------------------------------------------------------------|
 |Exploring and Preparing your Data with BigQuery - Coursera|
 |Creating New BigQuery Datasets and Visualizing Insights - Coursera|
 |Achieving Advanced Insights with BigQuery - Coursera|
@@ -105,7 +105,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 |Introduction to Responsible AI - Coursera|
 
 |Data Science e Data Engineering|
-|--------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------|
 |Foundations of Data Science: K-Means Clustering in Python - Coursera|
 |Machine Learning: Clustering & Retrieval - Coursera|
 |Managing Machine Learning Projects - Coursera|
@@ -116,7 +116,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 |Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra)|
 
 |Natural Language Processing - a deeplearning.ai Specialization - 4 courses|
-|--------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------|
 |Natural Language Processing with Attention Models                         |
 |Natural Language Processing with Classification and Vector Spaces         |
 |Natural Language Processing with Probabilistic Models                     |
