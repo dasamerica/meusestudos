@@ -146,3 +146,34 @@ A seguir a lista de cursos para utilização de bibliotecas científicas:
 |Palestra Ética na Pesquisa, Criatividade e Inovação Prof. Watanabe. (Carga horária: 1h). Universidade Federal do Rio de Janeiro, UFRJ, Brasil|
 |Revisão Bibliográfica em Engenharia (EngineeringVillage/ Compendex). (Carga horária: 1h). Instituto Tecnológico de Aeronáutica, ITA, Brasil.|
 |Análise Bibliométrica na Engenharia. (Carga horária: 1h). Instituto Tecnológico de Aeronáutica, ITA, Brasil|
+
+# Disciplinas cursadas no doutorado ITA
+
+|Nome da disciplina|
+|------------------|
+|1. Teste de Software|
+|2. Tópicos Avançados em Teste de Software|
+|3. Projetos de Sistemas de Banco de Dados|
+|4. Sistemas Embarcados de Tempo Real|
+|5. Qualidade, Confiabilidade e Segurança (Safety) de Software|
+|6. Fundamentos de Linguagens Formais e Automata|
+|7. Lógica Matemática|
+|6. Matemática Computacional| 
+|8. Seminário de Tese|
+
+# Disciplinas cursadas no mestrado University of Melbourne 
+
+|Nome da disciplina|
+|------------------|
+|1.Algoritmos|
+|2.Programação Java|
+|3.Redes de Computadores|
+|4.Modelagem de Dados|
+|5.Business to Consumer B2C|
+|6.Arquitetura para eBusiness|
+|7.Tecnologias da Web|
+|8.Software para Internet|
+|9.Engenharia de Sistemas|
+|10.Banco de Dados|
+|11.Aplicações da Internet|
+|12.Sistemas Corporativos| 
