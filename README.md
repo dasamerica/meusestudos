@@ -52,6 +52,18 @@ Seguem algumas indicações de materiais :
 - Generative AI \**
   [O que é o Google Gemini](https://www.alura.com.br/artigos/google-gemini) \**
   [O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney ) \**
+  [O que é Machine Learning?](https://www.alura.com.br/artigos/machine-learning ) \**
+  [O que é Deep Learning?](https://www.alura.com.br/artigos/deep-learning-deep-fake) \**
+  [O que é PLN?](https://www.alura.com.br/artigos/o-que-e-pln) \**
+  [Guia de design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br) \**
+  [Paper da OpenAI "Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165) \**
+  [Paper do Google "Chain-of-Thought Prompting Elicits Reasoning in Large Language](https://arxiv.org/abs/2201.11903) \**
+  [O que é Engenharia de Prompt e quais as suas principais técnicas?](https://www.alura.com.br/artigos/engenharia-prompt#principios-para-a-criacao-de-um-prompt)\**
+  [Galeria de prompts do Google AI Studio](https://ai.google.dev/examples?hl=pt-br)\**
+  [Guia de Python](https://www.alura.com.br/artigos/python)\**
+  [O que é API](https://www.alura.com.br/artigos/api)\**
+  [Embeddings](https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br)\**
+   
 
 
 # Livros, Repositorios e Dicas sobre IA Ética 
