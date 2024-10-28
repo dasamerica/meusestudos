@@ -1,3 +1,9 @@
+# Sobre mim
+Sou uma profissional experiente em vários segmentos de mercado e trabalho como Especialista em Produtos de Dados no Grupo Boticário, na área de B2C (Business to Consumer) com foco em produtos digitais.
+
+Sou Doutora em Ciências em Engenharia da Computação pelo Instituto Tecnológico de Aeronáutica, no Programa de Engenharia Eletrônica e Ciência da Computação, Área Informática. Concluí o Programa de Doutorado em junho de 2022 (Defesa de Tese em maio de 2022). Concluí meu mestrado em Tecnologia da Informação na Universidade de Melbourne, Austrália, em dezembro de 2006.
+
+Meus interesses de pesquisa acadêmica são Inteligência Artificial, Aprendizado de Máquina, Processamento de Linguagem Natural, Análise de Sentimentos, Ética em IA, Governança de Dados, Visualização de Dados, Big Data.
 
 # Minha Trajetoria de Estudos em Dados e Inteligencia Artificial 
 
