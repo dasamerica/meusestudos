@@ -165,15 +165,15 @@ A seguir a lista de cursos para utilização de bibliotecas científicas:
 
 |Nome da disciplina|
 |------------------|
-|1.Algoritmos|
-|2.Programação Java|
-|3.Redes de Computadores|
-|4.Modelagem de Dados|
-|5.Business to Consumer B2C|
-|6.Arquitetura para eBusiness|
-|7.Tecnologias da Web|
-|8.Software para Internet|
-|9.Engenharia de Sistemas|
-|10.Banco de Dados|
-|11.Aplicações da Internet|
-|12.Sistemas Corporativos| 
+|1. Algoritmos|
+|2. Programação Java|
+|3. Redes de Computadores|
+|4. Modelagem de Dados|
+|5. Business to Consumer B2C|
+|6. Arquitetura para eBusiness|
+|7. Tecnologias da Web|
+|8. Software para Internet|
+|9. Engenharia de Sistemas|
+|10. Banco de Dados|
+|11. Aplicações da Internet|
+|12. Sistemas Corporativos| 
