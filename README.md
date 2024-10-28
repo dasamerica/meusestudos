@@ -131,8 +131,8 @@ Seguem algumas indicações de cursos em minha transição para a área de dados
 
 # Cursos Formação em Pesquisa Científica
 
-A seguir a lista de cursos para uytilização de bibliotecas científicas:
-| Nome da BibLiotec Cientifica|
+A seguir a lista de cursos para utilização de bibliotecas científicas:
+| Nome da Biblioteca Cientifica|
 |-------------------------------------------------------------------------------------------------------|
 |Portal de Periodico, IEEE, FSTA. (Carga horária: 3h)|
 |Portal de Periodico, Britannica e Duke. (Carga horária: 3h)|
