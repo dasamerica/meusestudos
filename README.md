@@ -97,7 +97,7 @@ Seguem algumas indicações de cursos em minha transição para a área
 |From Data to Insights with Google Cloud - Coursera|
 
 |IA Ética e IA Responsável|
-|-------------------------|
+|----------------------------------------------------------------------------------------------|
 |Bias and Discrimination in AI - EDx|
 |Unconscious Bias: Fuel Diversity and Become a Better You - Udemy GAcademy|
 |Vieses Inconscientes - Grupo Boticario EducaON|
