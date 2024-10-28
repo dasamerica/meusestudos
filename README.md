@@ -45,8 +45,8 @@ Seguem algumas indicações de cursos em minha transição para a área
 |----------------------------------------------------------------------------------------------|
 |ISO/IEC 42001:2023 - Artificial Intelligence Management System (AIMS) - Alison|
 |ISO/IEC 27701:2019 Privacy Information Management System - Udemy|
-|ISO 31000 Risk Manager Training|
-|NIST AI Risk Management Framework|
+|ISO 31000 Risk Manager Training - Udemy|
+|NIST AI Risk Management Framework - Udemy|
 
 |AWS Cloud|
 |----------------------------------------------------------------------------------------------|
@@ -55,12 +55,12 @@ Seguem algumas indicações de cursos em minha transição para a área
 |IA Generativa|
 |----------------------------------------------------------------------------------------------|
 |Introduction to Large Language Models - Coursera|
-|Introduction to Image Generation|
-|Introduction to Generative AI|
+|Introduction to Image Generation - Coursera|
+|Introduction to Generative AI - Coursera|
 |Innovating with Data and Google Cloud - Coursera|
 |Infrastructure and Application Modernization with Google Cloud - Coursera|
 |Google Cloud Digital Leader Training - Udemy|
-|IA Generativa no GB: Chat GPT é apenas o começo!|
+|IA Generativa no GB: Chat GPT é apenas o começo! - Grupo Boticario|
 |Imersão em Inteligência Artificial - Google Gemini + AI Studio - Alura|
 |Inteligencia Artificial: eleve sua produtividade e acelere a sua carreira - Conquer|
 
@@ -86,8 +86,8 @@ Seguem algumas indicações de cursos em minha transição para a área
 |How Google Does Machine Learning - Coursera|
 |Launching into Machine Learning - Coursera|
 |Achieving Advanced Insights with BigQuery - Coursera|
-|Machine Learning in the Enterprise|
-|Applying Machine Learning to your Data with Google Cloud|
+|Machine Learning in the Enterprise - Coursera|
+|Applying Machine Learning to your Data with Google Cloud - Coursera|
 
 |Google Cloud - BigQuery|
 |----------------------------------------------------------------------------------------------|
@@ -111,9 +111,9 @@ Seguem algumas indicações de cursos em minha transição para a área
 |Managing Machine Learning Projects - Coursera|
 |MLOps: Implantação e Operação de Modelos de Machine Learning - Udemy|
 |IBM DataOps Methodology - Coursera|
-|Data Science and Agile Systems Engineering|
-|EducaON Trilha de Dados (Introdução/Ética com Dados/Resolução de Problemas; Preparação e Exploração de Dados/Big Query; Visualização/Google Data Studio/Tableau)|
-|Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra)|
+|Data Science and Agile Systems Engineering - EDx|
+|EducaON Trilha de Dados (Introdução/Ética com Dados/Resolução de Problemas; Preparação e Exploração de Dados/Big Query; Visualização/Google Data Studio/Tableau) - Grupo Boticário|
+|Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra) - ENAP|
 
 |Natural Language Processing - a deeplearning.ai Specialization - 4 courses|
 |----------------------------------------------------------------------------------------------|
