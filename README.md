@@ -44,7 +44,7 @@ Seguem algumas indicações de materiais :
 - [Python para Processamento de Linguagem Natural](https://cursosextensao.usp.br/course/view.php?id=2721)
 - [Geometric Deep Learning](https://geometricdeeplearning.com/)
 - [ICMC USP Data](https://github.com/icmc-data)
-- [Machine learning na Saúde](https://www.youtube.com/watchv=0G3GN2su2Mc&list=PLpvV74h3lihLdYrlnhlx_phy4pFZeZsKx&ab_channel=Laborat%C3%B3rioLabdapsUSP) 
+- [Machine learning na Saúde](https://www.youtube.com/watch?v=0G3GN2su2Mc&list=PLpvV74h3lihLdYrlnhlx_phy4pFZeZsKx&ab_channel=Laborat%C3%B3rioLabdapsUSP) 
 
 # Livros, Repositorios e Dicas sobre IA Ética 
 
