@@ -15,6 +15,7 @@ Seguem algumas indicações de materiais :
 - [Programas em Python utiilizados na Tese de Doutorado](https://github.com/dasamerica/ita_tese_dout_adapg)
 - [Tese de Doutorado - Um modelo de análise de assimetrias na pós-graduação](http://www.bdita.bibl.ita.br/tesesdigitais/lista_resumo.php?num_tese=78466)
 - [Artigos Publicados](https://sites.google.com/view/danielaamericadasilva/artigos?authuser=0)
+- [Livros](https://sites.google.com/view/danielaamericadasilva/dicas?authuser=0)
 
 # Materiais Gratuitos de Estudos 
 
