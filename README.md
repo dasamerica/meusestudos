@@ -44,7 +44,12 @@ Seguem algumas indicações de materiais :
 - [Python para Processamento de Linguagem Natural](https://cursosextensao.usp.br/course/view.php?id=2721)
 - [Geometric Deep Learning](https://geometricdeeplearning.com/)
 - [ICMC USP Data](https://github.com/icmc-data)
-- [Machine learning na Saúde](https://www.youtube.com/watch?v=0G3GN2su2Mc&list=PLpvV74h3lihLdYrlnhlx_phy4pFZeZsKx&ab_channel=Laborat%C3%B3rioLabdapsUSP) 
+- [Machine learning na Saúde](https://www.youtube.com/watch?v=0G3GN2su2Mc&list=PLpvV74h3lihLdYrlnhlx_phy4pFZeZsKx&ab_channel=Laborat%C3%B3rioLabdapsUSP)
+- [National AI Center Austrália](https://bit.ly/48IaETH) 
+- [C4AI - Center for Artificial INtelligence](https://c4ai.inova.usp.br/pt/inicio/) 
+- [Gbtech - Grupo Boticário](https://medium.com/gbtech) 
+- [CEDS-ITA Projetos de Pesquisa em Data Science CEDS-ITA](https://www.editoracientifica.com.br/books/projetos-de-pesquisa-em-data-science-estudo-de-caso-sobre-a-apexbrasil-instituto-tecnologico-de-aeronautica-ita-turma-apexbrasil) 
+
 
 # Livros, Repositorios e Dicas sobre IA Ética 
 
