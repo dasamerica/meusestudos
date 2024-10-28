@@ -88,7 +88,6 @@ Seguem algumas indicações de cursos em minha transição para a área de dados
 |----------------------------------------------------------------------------------------------|
 |How Google Does Machine Learning - Coursera|
 |Launching into Machine Learning - Coursera|
-|Achieving Advanced Insights with BigQuery - Coursera|
 |Machine Learning in the Enterprise - Coursera|
 |Applying Machine Learning to your Data with Google Cloud - Coursera|
 
