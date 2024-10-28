@@ -30,6 +30,7 @@ Seguem algumas indicações de materiais :
 - [Understanding Deep Learning](https://dataicmc.netlify.app/br/pages/events/understandingDL)
 - [IA na Prática - Apresentações 6a edição AI Experience Centro Paula Souza](http://aiexperience.cpscetec.com.br/arquivos/)
 - [Python para Processamento de Linguagem Natural](https://cursosextensao.usp.br/course/view.php?id=2721)
+- [Geometric Deep Learning](https://geometricdeeplearning.com/)
 
 # Materiais Gratuitos sobre Mulheres em STEAM
 
