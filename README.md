@@ -5,6 +5,10 @@ Sou Doutora em Ciências em Engenharia da Computação pelo Instituto Tecnológi
 
 Meus interesses de pesquisa acadêmica são Inteligência Artificial, Aprendizado de Máquina, Processamento de Linguagem Natural, Análise de Sentimentos, Ética em IA, Governança de Dados, Visualização de Dados, Big Data.
 
+Uma frase favorita:
+
+"O futuro pertence àqueles que acreditam na beleza de seus sonhos." - Eleanor Roosevelt
+
 # Minha Trajetoria de Estudos em Dados e Inteligencia Artificial 
 
 Este repositório tem por objetivo orientar os estudos na área de dados e inteligência artificial, e apresento meus estudos no programa de doutorado.
