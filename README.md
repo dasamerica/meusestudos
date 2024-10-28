@@ -49,20 +49,20 @@ Seguem algumas indicações de materiais :
 - [C4AI - Center for Artificial INtelligence](https://c4ai.inova.usp.br/pt/inicio/) 
 - [Gbtech - Grupo Boticário](https://medium.com/gbtech) 
 - [CEDS-ITA Projetos de Pesquisa em Data Science CEDS-ITA](https://www.editoracientifica.com.br/books/projetos-de-pesquisa-em-data-science-estudo-de-caso-sobre-a-apexbrasil-instituto-tecnologico-de-aeronautica-ita-turma-apexbrasil)
-- Generative AI \**
+- Generative AI <br>
   [O que é o Google Gemini](https://www.alura.com.br/artigos/google-gemini) <br>
   [O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney ) <br>
   [O que é Machine Learning?](https://www.alura.com.br/artigos/machine-learning ) <br>
-  [O que é Deep Learning?](https://www.alura.com.br/artigos/deep-learning-deep-fake) \**
-  [O que é PLN?](https://www.alura.com.br/artigos/o-que-e-pln) \**
-  [Guia de design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br) \**
-  [Paper da OpenAI "Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165) \**
-  [Paper do Google "Chain-of-Thought Prompting Elicits Reasoning in Large Language](https://arxiv.org/abs/2201.11903) \**
-  [O que é Engenharia de Prompt e quais as suas principais técnicas?](https://www.alura.com.br/artigos/engenharia-prompt#principios-para-a-criacao-de-um-prompt)\**
-  [Galeria de prompts do Google AI Studio](https://ai.google.dev/examples?hl=pt-br)\**
-  [Guia de Python](https://www.alura.com.br/artigos/python)\**
-  [O que é API](https://www.alura.com.br/artigos/api)\**
-  [Embeddings](https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br)\**
+  [O que é Deep Learning?](https://www.alura.com.br/artigos/deep-learning-deep-fake) <br>
+  [O que é PLN?](https://www.alura.com.br/artigos/o-que-e-pln) <br>
+  [Guia de design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br) <br>
+  [Paper da OpenAI "Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165) <br>
+  [Paper do Google "Chain-of-Thought Prompting Elicits Reasoning in Large Language](https://arxiv.org/abs/2201.11903) <br>
+  [O que é Engenharia de Prompt e quais as suas principais técnicas?](https://www.alura.com.br/artigos/engenharia-prompt#principios-para-a-criacao-de-um-prompt)<br>
+  [Galeria de prompts do Google AI Studio](https://ai.google.dev/examples?hl=pt-br)<br>
+  [Guia de Python](https://www.alura.com.br/artigos/python)<br>
+  [O que é API](https://www.alura.com.br/artigos/api)<br>
+  [Embeddings](https://ai.google.dev/gemini-api/docs/embeddings?hl=pt-br)<br>
    
 
 
