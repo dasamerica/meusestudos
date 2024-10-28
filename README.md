@@ -21,7 +21,7 @@ Adicionalmente listo também dicas de cursos gratuitos na área e minhas formaç
 Seguem algumas indicações de materiais :
 
 - [Códigos criados para a disciplina CT208 01/2020 Matemática Computacional- Prof. Ney Soma](https://github.com/dasamerica/ct208)
-- [Tutorial para criação de mapas em Python or mesoregiao](https://github.com/dasamerica/tutorials/tree/main/MAPS04)
+- [Tutorial para criação de mapas em Python or mesoregiao](https://github.com/dasamerica/tutorials/tree/main/MAPS)
 - [Tutorial Processamento de Linguagem Natural](https://github.com/dasamerica/tutorials/tree/main/NLP)
 - [Relatório Técnico para CAPES - Assimetrias na Pós-Graduação](https://github.com/dasamerica/relatorio_tecnico)
 - [Programas em Python utiilizados na Tese de Doutorado](https://github.com/dasamerica/ita_tese_dout_adapg)
