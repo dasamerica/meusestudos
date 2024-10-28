@@ -50,9 +50,9 @@ Seguem algumas indicações de materiais :
 - [Gbtech - Grupo Boticário](https://medium.com/gbtech) 
 - [CEDS-ITA Projetos de Pesquisa em Data Science CEDS-ITA](https://www.editoracientifica.com.br/books/projetos-de-pesquisa-em-data-science-estudo-de-caso-sobre-a-apexbrasil-instituto-tecnologico-de-aeronautica-ita-turma-apexbrasil)
 - Generative AI \**
-  [O que é o Google Gemini](https://www.alura.com.br/artigos/google-gemini) \**
-  [O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney ) \**
-  [O que é Machine Learning?](https://www.alura.com.br/artigos/machine-learning ) \**
+  [O que é o Google Gemini](https://www.alura.com.br/artigos/google-gemini) <br>
+  [O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney ) <br>
+  [O que é Machine Learning?](https://www.alura.com.br/artigos/machine-learning ) <br>
   [O que é Deep Learning?](https://www.alura.com.br/artigos/deep-learning-deep-fake) \**
   [O que é PLN?](https://www.alura.com.br/artigos/o-que-e-pln) \**
   [Guia de design de prompts do Google](https://ai.google.dev/gemini-api/docs/prompting-strategies?hl=pt-br) \**
