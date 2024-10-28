@@ -48,7 +48,8 @@ Seguem algumas indicações de materiais :
 - [National AI Center Austrália](https://bit.ly/48IaETH) 
 - [C4AI - Center for Artificial INtelligence](https://c4ai.inova.usp.br/pt/inicio/) 
 - [Gbtech - Grupo Boticário](https://medium.com/gbtech) 
-- [CEDS-ITA Projetos de Pesquisa em Data Science CEDS-ITA](https://www.editoracientifica.com.br/books/projetos-de-pesquisa-em-data-science-estudo-de-caso-sobre-a-apexbrasil-instituto-tecnologico-de-aeronautica-ita-turma-apexbrasil) 
+- [CEDS-ITA Projetos de Pesquisa em Data Science CEDS-ITA](https://www.editoracientifica.com.br/books/projetos-de-pesquisa-em-data-science-estudo-de-caso-sobre-a-apexbrasil-instituto-tecnologico-de-aeronautica-ita-turma-apexbrasil)
+- Generative AI [O que é o Google Gemini]([https://lnkd.in/dRRCwBRA ](https://www.alura.com.br/artigos/google-gemini),[O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney )
 
 
 # Livros, Repositorios e Dicas sobre IA Ética 
