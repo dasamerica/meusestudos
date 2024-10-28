@@ -45,7 +45,7 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 
 # Cursos Complementares
 
-Seguem algumas indicações de cursos em minha transição para a área
+Seguem algumas indicações de cursos em minha transição para a área de dados:
 
 |Standards|
 |----------------------------------------------------------------------------------------------|
@@ -127,3 +127,26 @@ Seguem algumas indicações de cursos em minha transição para a área
 |Natural Language Processing with Classification and Vector Spaces         |
 |Natural Language Processing with Probabilistic Models                     |
 |Natural Language Processing with Sequence Models                          |
+
+
+# Cursos Formação em Pesquisa Científica
+
+A seguir a lista de cursos para uytilização de bibliotecas científicas:
+| Nome da BibLiotec Cientifica|
+|-------------------------------------------------------------------------------------------------------|
+|Portal de Periodico, IEEE, FSTA. (Carga horária: 3h)|
+|Portal de Periodico, Britannica e Duke. (Carga horária: 3h)|
+|Webinar Fluxo da Informação Científica. (Carga horária: 1h) - American Chemical Society, Estados Unidos|
+|Portal de Periodicos, EBSCO Sage e Taylor&Francis. (Carga horária: 3h)|
+|Portal de Periódicos, Web of Science e Endnote. (Carga horária: 3h)|
+|Portal de Periodicos, Especial CAS, SENAC, ITMS. (Carga horária: 3h)|
+|Webinar Mendeley. (Carga horária: 1h) - Universidade de São Paulo, USP, Brasil|
+|Webinar Emerald Como encontrar pesquisa de qualidade. (Carga horária: 1h) - Universidade de São Paulo, USP, Brasil|
+|Webinar Papel da Informação científica no desenvolvimento da pesquisa. (Carga horária: 1h). American Chemical Society, Estados Unidos.|
+|Recomendações de Produção Científica em Engenharia. (Carga horária: 1h) - Instituto Tecnológico de Aeronáutica, ITA, Brasil|
+|Preprints e oportunidades para melhorar a visibilidade de periódicos. (Carga horária: 2h) - Associação Brasileira de Editores Científicos, ABEC, Brasil|
+|Utilizando as ferramentas de análise da Web of Science (WOS) e JCR. (Carga horária: 1h). Universidade de São Paulo, USP, Brasil|
+|Webinar Compendex and Engineering Village. (Carga horária: 1h) Universidade de São Paulo, USP, Brasil.|
+|Palestra Ética na Pesquisa, Criatividade e Inovação Prof. Watanabe. (Carga horária: 1h). Universidade Federal do Rio de Janeiro, UFRJ, Brasil|
+|Revisão Bibliográfica em Engenharia (EngineeringVillage/ Compendex). (Carga horária: 1h). Instituto Tecnológico de Aeronáutica, ITA, Brasil.|
+|Análise Bibliométrica na Engenharia. (Carga horária: 1h). Instituto Tecnológico de Aeronáutica, ITA, Brasil|
