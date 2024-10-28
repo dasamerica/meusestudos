@@ -32,6 +32,12 @@ Seguem algumas indicações de materiais :
 - [Python para Processamento de Linguagem Natural](https://cursosextensao.usp.br/course/view.php?id=2721)
 - [Geometric Deep Learning](https://geometricdeeplearning.com/)
 
+# Livros IA Ética
+
+- [Inteligencia Artificial: Democracia e Impactos Sociais[ (https://a.co/d/fIF0EY8)
+- [Encarte do IEA (Instituto de Estudos Avançados da USP) Volume 38 Num. 111 Ano 2024(artigos com a tag Inteligência Artificial: Democracia e Impactos Sociais)](https://www.scielo.br/j/ea/i/2024.v38n111/)
+- [Mitiganting Bias in Machine Learning](https://www.amazon.com/Mitigating-Machine-Learning-Carlotta-Berry/dp/1264922442)
+
 # Materiais Gratuitos sobre Mulheres em STEAM
 
 Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulheres em STEAM
