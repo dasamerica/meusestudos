@@ -197,7 +197,8 @@ A seguir a lista de cursos para utilização de bibliotecas científicas:
 
 # Disciplinas cursadas no doutorado ITA
 
-Informações sobre o [Doutorado no Instituto Tecnológico de Aeronáutica](https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/structure/#nav)
+Informações sobre o [Doutorado no Instituto Tecnológico de Aeronáutica](http://ITA.br/posgrad/doutorado)
+
 
 |Nome da disciplina|
 |------------------|
