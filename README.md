@@ -211,6 +211,8 @@ A seguir a lista de cursos para utilização de bibliotecas científicas:
 
 # Disciplinas cursadas no mestrado University of Melbourne 
 
+Informações sobre [Master in Information Technology](https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/structure/#nav)
+
 |Nome da disciplina|
 |------------------|
 |1. Algoritmos|
