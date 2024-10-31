@@ -158,10 +158,11 @@ Seguem algumas indicações de cursos em minha transição para a área de dados
 |----------------------------------------------------------------------------------------------|
 |Foundations of Data Science: K-Means Clustering in Python - Coursera|
 |Machine Learning: Clustering & Retrieval - Coursera|
-|Managing Machine Learning Projects - Coursera|
-|MLOps: Implantação e Operação de Modelos de Machine Learning - Udemy|
+|Managing Machine Learning Projects - [Coursera] (https://www.coursera.org/learn/managing-machine-learning-projects)|
+|MLOps: Implantação e Operação de Modelos de Machine Learning - [Udemy]
+(https://www.udemy.com/course/mlops-mlflow-operacao-de-machine-learning/?srsltid=AfmBOorEYtYWc82hVMSHWfwoahTfP5jjqFFlRlSOvmTgv9T2pN9hxwTk)|
 |IBM DataOps Methodology - Coursera|
-|Data Science and Agile Systems Engineering - [EDx]( (https://learning.edx.org/course/course-v1:USMx+ENES608.4+2T2020/home)|
+|Data Science and Agile Systems Engineering - [EDx] (https://learning.edx.org/course/course-v1:USMx+ENES608.4+2T2020/home)|
 |EducaON Trilha de Dados (Introdução/Ética com Dados/Resolução de Problemas; Preparação e Exploração de Dados/Big Query; Visualização/Google Data Studio/Tableau) - Grupo Boticário|
 |Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra) - [ENAP](https://www.escolavirtual.gov.br/curso/96)|
 
