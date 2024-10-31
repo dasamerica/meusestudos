@@ -163,7 +163,7 @@ Seguem algumas indicações de cursos em minha transição para a área de dados
 |IBM DataOps Methodology - Coursera|
 |Data Science and Agile Systems Engineering - EDx|
 |EducaON Trilha de Dados (Introdução/Ética com Dados/Resolução de Problemas; Preparação e Exploração de Dados/Big Query; Visualização/Google Data Studio/Tableau) - Grupo Boticário|
-|Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra) - ENAP|
+|Estatística - Curso Aberto Análise e Ciência de Dados (Estatística Descritiva, Probabilidades e Técnicas de Amostragem, Análise de Risco na Avaliação de Projetos, Amostragem e Dimensionamento da Amostra) - [ENAP](https://www.escolavirtual.gov.br/curso/96)|
 
 |Natural Language Processing - a deeplearning.ai Specialization - [4 courses](https://www.deeplearning.ai/courses/natural-language-processing-specialization/)|
 |----------------------------------------------------------------------------------------------|
