@@ -91,7 +91,7 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 - [Estatistica Gerencial no Apoio a Tomada de Decisao](https://www.fundace.org.br/curso/estatisticagerencial)
 - [Customer Loyalty: Create and Calculate its Value](https://unimelb.badgr.io/public/badges/pm15DK23Rt6M-WkkQgI_ag)
   
-# Grupos de Pesquisa
+# Grupos de Pesquisa (egresso)
 
 - [GIMPS](https://www.gimps.info/home) Grupo de Interesse em Métodos e Processos
 - [GPES](https://sites.google.com/site/gpesgestao/)
