@@ -94,7 +94,7 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 # Grupos de Pesquisa
 
 - [GIMPS](https://www.gimps.info/home) Grupo de Interesse em Métodos e Processos
-- [GPES](https://www.gimps.info/home)
+- [GPES](https://sites.google.com/site/gpesgestao/)
 Grupo de Pesquisa em Engenharia de Software
 
 # Cursos Complementares
