@@ -90,6 +90,11 @@ Seguem algumas indicações dos anais do 1o e 2o Congresso Internacional Mulhere
 - [Introduction to Ethics in Artificial Intelligence](https://au.badgr.com/public/assertions/wsCXGqEDQ5eS7q-hyof-ig)
 - [Estatistica Gerencial no Apoio a Tomada de Decisao](https://www.fundace.org.br/curso/estatisticagerencial)
 - [Customer Loyalty: Create and Calculate its Value](https://unimelb.badgr.io/public/badges/pm15DK23Rt6M-WkkQgI_ag)
+  
+# Grupos de Pesquisa
+
+GIMPS - 
+GEPS - 
 
 # Cursos Complementares
 
